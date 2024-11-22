@@ -1,0 +1,142 @@
+/* Utils */
+body {
+  color: #203a8f; /* Steel Gray */
+  font-family: "Poppins", sans-serif;
+  background-color: #f9f8f6;
+}
+
+.blacky {
+  color: #0f1821;
+}
+
+.bluey {
+  background-color: #203a8f;
+}
+
+.wrapper {
+  width: 90%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+/* Button */
+.btn-primary {
+  --bs-btn-color: #f9f8f6;
+  --bs-btn-bg: #203a8f;
+  --bs-btn-border-color: #203a8f;
+  --bs-btn-hover-color: #f9f8f6;
+  --bs-btn-hover-bg: #101d47;
+  --bs-btn-hover-border-color: #101d47;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #f9f8f6;
+  --bs-btn-active-bg: #101d47;
+  --bs-btn-active-border-color: #0a53be;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #f9f8f6;
+  --bs-btn-disabled-bg: #203a8f;
+  --bs-btn-disabled-border-color: #203a8f;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #203a8f;
+  --bs-btn-border-color: #203a8f;
+  --bs-btn-hover-color: #f9f8f6;
+  --bs-btn-hover-bg: #203a8f;
+  --bs-btn-hover-border-color: #203a8f;
+  --bs-btn-focus-shadow-rgb: 248, 181, 71;
+  --bs-btn-active-color: #f9f8f6;
+  --bs-btn-active-bg: #203a8f;
+  --bs-btn-active-border-color: #203a8f;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #203a8f;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #203a8f;
+  --bs-gradient: none;
+}
+
+/* List group */
+.list-group-item.active {
+  color: #f9f8f6;
+  background-color: #203a8f;
+  border-color: #203a8f;
+}
+
+/* Nav */
+.nav-link {
+  --bs-nav-link-color: #e11f1d;
+}
+.nav-link:hover,
+.nav-link:focus {
+  --bs-nav-link-hover-color: #71100f;
+}
+
+/* Masthead */
+.masthead {
+  padding-top: 10rem;
+  height: 100vh;
+}
+
+.masthead h1 {
+  font-size: calc(1rem + 3vw);
+}
+
+.masthead a {
+  font-size: calc(1.25rem);
+}
+
+/* Footer */
+footer {
+  padding-block: 2rem 1rem;
+}
+footer .text-light {
+  color: #f9f8f6 !important;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+footer .left__panel {
+  width: 90%;
+  max-width: 400px;
+}
+footer .left__panel p {
+  padding-block: 0.5rem 1rem;
+}
+footer .left__panel .socials {
+  gap: 1.5rem;
+}
+footer .left__panel .socials .path {
+  transition: all 0.35s ease-in;
+}
+footer .left__panel .socials a:hover .path {
+  fill: #a97155;
+}
+@media (min-width: 768px) {
+  footer .right__panel {
+    gap: 4rem;
+  }
+}
+@media (min-width: 992px) {
+  footer .right__panel {
+    gap: 6.375rem;
+  }
+}
+footer .right__panel a {
+  text-decoration: underline;
+  font-size: 1.125rem;
+}
+footer .right__panel .navigations li:not(:first-child),
+footer .right__panel .recht li:not(:first-child) {
+  padding-top: 0.5rem;
+}
+footer .copyright {
+  padding-top: 1rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid #f9f8f6;
+}
+
+/* Trainingsstätte */
+#trainingsstaette h3{
+	font-size: 1rem;
+}
