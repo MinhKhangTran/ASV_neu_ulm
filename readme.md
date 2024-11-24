@@ -6,9 +6,9 @@ https://dev.to/lixeletto/4-dead-simple-ways-of-customizing-bootstrap-5132#htmlec
 # Pages
 
 - Index (Homepage) ✅
-- Historie (mit Scrollspy) ✅
-- kdk (Text bisschen BVDK IPF usw und Bilder mit Öffnungszeiten nach Absprache)
-- gewichtheben (Text bisschen Regel etc und Bilder mit Öffnungszeiten nach Absprache)
+- Historie ✅ (mit Scrollspy) 
+- kdk (Text bisschen BVDK IPF usw und Bilder mit Öffnungszeiten nach Absprache) ✅
+- gewichtheben (Text bisschen Regel etc und Bilder mit Öffnungszeiten nach Absprache) ✅
 - impressum (e-recht24) ✅
 - dsgvo (e-recht24) ✅
 - Regeln??? (intern?)
@@ -22,7 +22,7 @@ Falls es beim uploader zu problemen kommt das Zeichen "/" entfernen
 # Bilder
 ## Wer sind wir?
 Bei wer sind wir ein Bild von vielen Mitglieder oder mehrere Bilder dann Carousel.
-Z.B. Schwäbische 2024
+Z.B. Schwäbische 2024 ✅
 Gewichtheber???
 
 ## Trainingsstätten
@@ -30,7 +30,7 @@ Gewichtheber???
 
 # Text
 ## Wer sind wir?
-passende Text passage
+passende Text passage ✅
 
 ## Trainingsstätten
 passende Texte zu BVDK oder andere Verbände und Öffnungszeiten nach absprache mit Kontakte unten
